@@ -1,0 +1,8 @@
+﻿---------- StarvingFox Studio - Pixel Planets ---------- 
+--------------------DOCUMENTATION--------------------
+
+Everything is drag and drop ready in the Prefabs folder.
+
+You can use different sides of the planets by using the planets sprite sheets in the Textures folder.
+
+Consult the demo scenes to have an idea of how the prefabs can work together.

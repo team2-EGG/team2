@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 7eaf733c8e59ebd4abeef69953fc8d66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8439294301585472741
+    second: SFS_PixelPlanets_Asteroid_Shaded_Big_0
+  - first:
+      213: -512910688512611319
+    second: SFS_PixelPlanets_Asteroid_Shaded_Big_1
+  - first:
+      213: -3420593634142207643
+    second: SFS_PixelPlanets_Asteroid_Shaded_Medium_0
+  - first:
+      213: -2100212109390504672
+    second: SFS_PixelPlanets_Asteroid_Shaded_Big_2
+  - first:
+      213: -4693952269155955765
+    second: SFS_PixelPlanets_Asteroid_Shaded_Big_3
+  - first:
+      213: -4166737292163535056
+    second: SFS_PixelPlanets_Asteroid_Shaded_Medium_1
+  - first:
+      213: -4314518465659934075
+    second: SFS_PixelPlanets_Asteroid_Shaded_Small_0
+  - first:
+      213: 7070038549343432746
+    second: SFS_PixelPlanets_Asteroid_Shaded_Small_1
+  - first:
+      213: -8136425154495001869
+    second: SFS_PixelPlanets_Asteroid_Shaded_Big_4
+  - first:
+      213: -3864580141203238178
+    second: SFS_PixelPlanets_Asteroid_Shaded_Big_5
+  - first:
+      213: 2503077249874648530
+    second: SFS_PixelPlanets_Asteroid_Shaded_Small_2
+  - first:
+      213: 2761764659989198809
+    second: SFS_PixelPlanets_Asteroid_Shaded_Small_3
+  - first:
+      213: -7698875754365136517
+    second: SFS_PixelPlanets_Asteroid_Shaded_Small_4
+  - first:
+      213: 8647395505719173760
+    second: SFS_PixelPlanets_Asteroid_Shaded_Small_5
+  - first:
+      213: -687013335755332047
+    second: SFS_PixelPlanets_Asteroid_Shaded_Medium_2
+  - first:
+      213: -4373334377631468262
+    second: SFS_PixelPlanets_Asteroid_Shaded_Medium_3
+  - first:
+      213: -6322734436954165985
+    second: SFS_PixelPlanets_Asteroid_Shaded_Medium_4
+  - first:
+      213: 6208682333926237704
+    second: SFS_PixelPlanets_Asteroid_Shaded_Medium_5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Big_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 341
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130507cb8a91ea80800000000000000
+      internalID: -8439294301585472741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Big_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 341
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c64b14276c1e8f0800000000000000
+      internalID: -512910688512611319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Medium_0
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 400
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561cdfb763c9780d0800000000000000
+      internalID: -3420593634142207643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Big_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 215
+        width: 167
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1ec2c63c8ad2e0800000000000000
+      internalID: -2100212109390504672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Big_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 215
+        width: 167
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb0254e74bbbdeb0800000000000000
+      internalID: -4693952269155955765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Medium_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 295
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f28345286cc26c0800000000000000
+      internalID: -4166737292163535056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Small_0
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 223
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae9759050cf14c0800000000000000
+      internalID: -4314518465659934075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Small_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 223
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20fee91a92dd1260800000000000000
+      internalID: 7070038549343432746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Big_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 89
+        width: 167
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac5cc3e6c951f80800000000000000
+      internalID: -8136425154495001869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Big_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 89
+        width: 167
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25d8546d04e5ac0800000000000000
+      internalID: -3864580141203238178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Small_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 164
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddd3243f77bcb220800000000000000
+      internalID: 2503077249874648530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Small_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 164
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d732e76352c35620800000000000000
+      internalID: 2761764659989198809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Small_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 105
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71d233ba49182590800000000000000
+      internalID: -7698875754365136517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Small_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 105
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08263b68568b10870800000000000000
+      internalID: 8647395505719173760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Medium_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e856d20d3776f0800000000000000
+      internalID: -687013335755332047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Medium_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b541fd8bce43c0800000000000000
+      internalID: -4373334377631468262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Medium_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da73467822148a0800000000000000
+      internalID: -6322734436954165985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_Asteroid_Shaded_Medium_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 9
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806aaec00bba92650800000000000000
+      internalID: 6208682333926237704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SFS_PixelPlanets_Asteroid_Shaded_Big_0: -8439294301585472741
+      SFS_PixelPlanets_Asteroid_Shaded_Big_1: -512910688512611319
+      SFS_PixelPlanets_Asteroid_Shaded_Big_2: -2100212109390504672
+      SFS_PixelPlanets_Asteroid_Shaded_Big_3: -4693952269155955765
+      SFS_PixelPlanets_Asteroid_Shaded_Big_4: -8136425154495001869
+      SFS_PixelPlanets_Asteroid_Shaded_Big_5: -3864580141203238178
+      SFS_PixelPlanets_Asteroid_Shaded_Medium_0: -3420593634142207643
+      SFS_PixelPlanets_Asteroid_Shaded_Medium_1: -4166737292163535056
+      SFS_PixelPlanets_Asteroid_Shaded_Medium_2: -687013335755332047
+      SFS_PixelPlanets_Asteroid_Shaded_Medium_3: -4373334377631468262
+      SFS_PixelPlanets_Asteroid_Shaded_Medium_4: -6322734436954165985
+      SFS_PixelPlanets_Asteroid_Shaded_Medium_5: 6208682333926237704
+      SFS_PixelPlanets_Asteroid_Shaded_Small_0: -4314518465659934075
+      SFS_PixelPlanets_Asteroid_Shaded_Small_1: 7070038549343432746
+      SFS_PixelPlanets_Asteroid_Shaded_Small_2: 2503077249874648530
+      SFS_PixelPlanets_Asteroid_Shaded_Small_3: 2761764659989198809
+      SFS_PixelPlanets_Asteroid_Shaded_Small_4: -7698875754365136517
+      SFS_PixelPlanets_Asteroid_Shaded_Small_5: 8647395505719173760
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

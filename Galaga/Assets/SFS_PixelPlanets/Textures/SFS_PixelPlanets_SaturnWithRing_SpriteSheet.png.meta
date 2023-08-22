@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: a69b85753666a554db9ff41eb99d6bf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2008746269454754550
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_0
+  - first:
+      213: 8826829497984488602
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_1
+  - first:
+      213: -8893526044882377364
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_2
+  - first:
+      213: 5607138403449755334
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_3
+  - first:
+      213: 7073494574754524203
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_4
+  - first:
+      213: 1625725495746802496
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_5
+  - first:
+      213: -6478590827460731924
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_6
+  - first:
+      213: 666126200222056918
+    second: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 239
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2edbad61080eb10800000000000000
+      internalID: 2008746269454754550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 68
+        width: 256
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a941e4079a23f7a70800000000000000
+      internalID: 8826829497984488602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 67
+        width: 243
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65e91e9e29d39480800000000000000
+      internalID: -8893526044882377364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 68
+        width: 226
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d2188bae80dd40800000000000000
+      internalID: 5607138403449755334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 66
+        width: 239
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c65e8b6d91a2260800000000000000
+      internalID: 7073494574754524203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 67
+        width: 256
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043b84499bcbf8610800000000000000
+      internalID: 1625725495746802496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 67
+        width: 243
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb591ca7fb6716a0800000000000000
+      internalID: -6478590827460731924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFS_PixelPlanets_SaturnWithRing_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 67
+        width: 226
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d101d3ff3e8e3900800000000000000
+      internalID: 666126200222056918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_0: 2008746269454754550
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_1: 8826829497984488602
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_2: -8893526044882377364
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_3: 5607138403449755334
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_4: 7073494574754524203
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_5: 1625725495746802496
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_6: -6478590827460731924
+      SFS_PixelPlanets_SaturnWithRing_SpriteSheet_7: 666126200222056918
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
