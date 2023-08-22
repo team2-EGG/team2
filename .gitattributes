@@ -1,0 +1,2 @@
+lld filter=lfs diff=lfs merge=lfs -text
+GalagaLibraryPackageCachecom.unity.burst@1.6.6.Runtimehostmaclld filter=lfs diff=lfs merge=lfs -text
