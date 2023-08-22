@@ -1,0 +1,291 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'ko' Physical Memory: 16327 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Unity/team2/Galaga
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+13374
+Successfully changed project path to: D:/Unity/team2/Galaga
+D:/Unity/team2/Galaga
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21384] Host "[IP] 192.168.0.36 [Port] 0 [Flags] 2 [Guid] 242290489 [EditorId] 242290489 [Version] 1048832 [Id] WindowsEditor(7,신현진컴퓨터1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [21384] Host "[IP] 192.168.0.36 [Port] 0 [Flags] 2 [Guid] 242290489 [EditorId] 242290489 [Version] 1048832 [Id] WindowsEditor(7,신현진컴퓨터1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 73.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.23f1 (213b516bf396)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/team2/Galaga/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8050 MB
+    Driver:   30.0.15.1165
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011598 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 73.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.553 seconds
+Domain Reload Profiling:
+	ReloadAssembly (553ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (363ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (76ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (218ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (74ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (94ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006984 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\team2\Galaga\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\team2\Galaga\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 78.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1070ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (854ms)
+			LoadAssemblies (109ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (175ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (522ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (317ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3735 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (229.4 KB). Loaded Objects now: 4188.
+Memory consumption went from 147.0 MB to 146.8 MB.
+Total: 3.057600 ms (FindLiveObjects: 0.209500 ms CreateObjectMapping: 0.119100 ms MarkObjects: 2.602300 ms  DeleteObjects: 0.126200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 557140.624790 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Asteroid_Big_0.prefab
+  artifactKey: Guid(17ddbcc32fb071046a866eef252e8b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Asteroid_Big_0.prefab using Guid(17ddbcc32fb071046a866eef252e8b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1545ff170d88b938e7ca0cc9c4c03e62') in 0.137439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Asteroid_Medium_0.prefab
+  artifactKey: Guid(501e63e0c382e1748b02aac3c9a4faaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Asteroid_Medium_0.prefab using Guid(501e63e0c382e1748b02aac3c9a4faaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46deb95617b0474200db2d3d04f8c420') in 0.023105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.686633 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded
+  artifactKey: Guid(5b39a95af60387b46b6ef7121d983c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded using Guid(5b39a95af60387b46b6ef7121d983c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c885dbd33937eb6c9ab4a3a5f29d6979') in 0.009697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057075 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Big_0.prefab
+  artifactKey: Guid(f409508d2eb106b4c8a2a4fc07ab8a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Big_0.prefab using Guid(f409508d2eb106b4c8a2a4fc07ab8a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '758368182574b4534b04437351de67ef') in 0.015373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Big_4.prefab
+  artifactKey: Guid(a0a23da3f6fe59d4cba029a29747c6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Big_4.prefab using Guid(a0a23da3f6fe59d4cba029a29747c6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10bdaf96bb0622ba485e422ceda87f9') in 0.015271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Small_0.prefab
+  artifactKey: Guid(ae306fcb405a0234eb34724d55c69800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Small_0.prefab using Guid(ae306fcb405a0234eb34724d55c69800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e30dd21669cabf1978128b0ff7866f') in 0.015704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Medium_2.prefab
+  artifactKey: Guid(24e22e7b36c43dd4588ab14e456b4ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Medium_2.prefab using Guid(24e22e7b36c43dd4588ab14e456b4ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b828442891cecec39e6d94e9adb655') in 0.015210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Medium_5.prefab
+  artifactKey: Guid(0cb58f881fedc0d4d8fc366294da95d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Medium_5.prefab using Guid(0cb58f881fedc0d4d8fc366294da95d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86490ce5a1db6ef535e1e7e7d474b59c') in 0.015876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Medium_3.prefab
+  artifactKey: Guid(207fc10e415288649ba8778c6348ef08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Prefabs/Asteroids/Shaded/Asteroid_Shaded_Medium_3.prefab using Guid(207fc10e415288649ba8778c6348ef08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b9eeb66834e8fef2c742cce48037c53') in 0.015521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.913055 seconds.
+  path: Assets/SFS_PixelPlanets/Demo/PixelPlanets_DemoScene_0.unity
+  artifactKey: Guid(3b1d15b121cea1c4a9bd8a9982f311d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Demo/PixelPlanets_DemoScene_0.unity using Guid(3b1d15b121cea1c4a9bd8a9982f311d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d1268da58b21de99e8d0336bb003f2') in 0.010163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.034971 seconds.
+  path: Assets/SFS_PixelPlanets/Demo/PixelPlanets_DemoScene_1.unity
+  artifactKey: Guid(60c9620cd2a59214e881353d513a5bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Demo/PixelPlanets_DemoScene_1.unity using Guid(60c9620cd2a59214e881353d513a5bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd98ad8b1f9e676d351abd21db33bad') in 0.010713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.119662 seconds.
+  path: Assets/SFS_PixelPlanets/Demo/PixelPlanets_LibraryScene.unity
+  artifactKey: Guid(49677d689b9af9d49864f63ff4059aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_PixelPlanets/Demo/PixelPlanets_LibraryScene.unity using Guid(49677d689b9af9d49864f63ff4059aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87becde3984fca0145a9882605f26f04') in 0.009570 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008205 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\team2\Galaga\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\team2\Galaga\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1253ms)
+		BeginReloadAssembly (191ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (927ms)
+			LoadAssemblies (146ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (491ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (342ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (19ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.77 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3730 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (195.8 KB). Loaded Objects now: 4199.
+Memory consumption went from 151.0 MB to 150.8 MB.
+Total: 3.304900 ms (FindLiveObjects: 0.249100 ms CreateObjectMapping: 0.154500 ms MarkObjects: 2.702100 ms  DeleteObjects: 0.198600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
